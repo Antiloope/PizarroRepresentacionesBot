@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "client_id": 0,
+    "product_name": "fidget spinner verde"
+  },
+  {
+    "id": 1,
+    "client_id": 0,
+    "product_name": "macbook pro 2020"
+  },
+  {
+    "id": 2,
+    "client_id": 1,
+    "product_name": "gan 3x3 air"
+  },
+  {
+    "id": 3,
+    "client_id": 1,
+    "product_name": "griferia peirano monocomando renacer"
+  }
+
+]
